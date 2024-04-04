@@ -17,3 +17,10 @@ This folder contains three javascript files:
 
 ##support and contact details:
 https://github.com/lilThiosh
+
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2024.
+
+
